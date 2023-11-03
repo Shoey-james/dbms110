@@ -1,0 +1,33 @@
+<movielisting title="Movies">
+    
+    <movie>
+        <name> Happy Gilmore </name>
+        <released> 1996 </released>
+        <productioncompany> Universal Pictures </productioncompany>
+        <genre> Comedy, sports </genre>
+        <quantity> 5 </quantity>
+        <cost> $10.00 </cost>
+        <actors> Adam Sandler, Julie Bowen </actors>
+    </movie>
+    <movie>
+        <name> Billy Madison </name>
+        <released> 1995 </released>
+        <productioncompany> Universal Pictures </productioncompany>
+        <genre> Comedy </genre>
+        <quantity> 5 </quantity>
+        <cost> $10.00 </cost>
+        <actors> Adam Sandler, Bridgette Wilson </actors>
+    </movie>
+     <movie>
+        <name> Waterboy </name>
+        <released> 1998 </released>
+        <productioncompany> Universal Pictures </productioncompany>
+        <genre> Comedy, sports </genre>
+        <quantity> 5 </quantity>
+        <cost> $10.00 </cost>
+        <actors> Adam Sandler, Fairuza Balk </actors>
+    </movie>
+</movielisting>
+    
+
+

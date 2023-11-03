@@ -1,0 +1,59 @@
+[
+  {  
+    "Title": "Happy Gilmore",
+    "Released": "1996",
+    "Production Company": "Universal Pictures",
+    "Genre": ["Comedy", "Sports"],
+    "Quantity": "5",
+    "Cost": "10.00",
+    "Cast": [{
+        "Actor": "Adam Sandler",
+        "Name": "Happy Gilmore"
+    }, {
+        "Actor": "Julie Bowen",
+        "Name": "Virginia Venit"
+
+    }]
+
+    },
+
+    {
+
+    "Title": "Billy Madison",
+    "Released": "1995",
+    "Production Company": "Universal Pictures",
+    "Genre": "Comedy",
+    "Quantity": "5",
+    "Cost": "10.00",
+    "Cast": [{
+        "Actor": "Adam Sandler",
+        "Name": "Billy Madison"
+    }, {
+        "Actor": "Bridgette Wilson",
+        "Name": "Veronica Vaughn"
+
+    }]
+
+    },
+
+    {
+
+    "Title": "Waterboy",
+    "Released": "1998",
+    "Production Company": "Universal Pictures",
+    "Genre": ["Comedy", "Sports"],
+    "Quantity": "5",
+    "Cost": "10.00",
+    "Cast": [{  
+
+        "Actor": "Adam Sandler",
+        "Name": "Bobby Bucher Jr."
+    }, {
+        "Actor": "Fairuza Balk",
+        "Name": "Vicki Vallencourt"
+
+        }]
+    }
+
+]
+
